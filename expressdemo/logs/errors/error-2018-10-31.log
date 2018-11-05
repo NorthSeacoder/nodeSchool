@@ -1,0 +1,16 @@
+[2018-10-31T20:15:05.130] [ERROR] errorLog - 
+*************** error log start ***************
+request method: POST
+request originalUrl:  /api/time
+request client ip:  null
+request body: 
+{"time":"2018-01-01"}
+response time: 12718
+err name: Error
+err message: 400
+err stack: Error: 400
+    at app.all (f:\工作\expressDemo\demo\server\app.js:36:11)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+*************** error log end ***************
+
